@@ -1,5 +1,5 @@
 # Instituto Flor de Cerejeira
-
+<img width="1280" height="921" alt="Florgif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5add1abf-5fbe-4647-9632-879b566582b9" />
 Site de portfólio fictício para um instituto de psicologia. O conteúdo, a profissional e o ambiente são ilustrativos; o site não oferece atendimento ou agendamentos reais.
 
 ## Executar localmente
