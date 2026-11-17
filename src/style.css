@@ -27,3 +27,7 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}.petals{display:none}}
 
 
+/* A quiet garden floor for the petals at the end of the page. */
+footer { position: relative; padding-bottom: 62px; overflow: hidden; }
+footer::after { content: ''; position: absolute; z-index: 0; left: 0; right: 0; bottom: 0; height: 15px; background: linear-gradient(180deg, #849684 0 1px, #394c3e 2px, #344638 100%); pointer-events: none; }
+
